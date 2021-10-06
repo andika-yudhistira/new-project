@@ -1,3 +1,3 @@
 exports.salamSayang = function (){
-    return "Hai Sayang :*"
+    return "Hai Sayangku :*"
 }
