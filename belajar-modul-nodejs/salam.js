@@ -1,3 +1,3 @@
-exports.salamPagi = function (){
-    return "Selamat Pagi!"
+exports.salamSayang = function (){
+    return "Selamat pagi sayangku"
 }
